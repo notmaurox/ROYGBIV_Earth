@@ -1,5 +1,5 @@
 # ROYGBIV_Earth
-A mac application for data visualization that creates color coded maps of the world to compare statistics between countrie.
+A mac application for data visualization that creates color-coded maps of the world to compare statistics between countries.
 
 Written in python using plot.ly graphing library and turned into app using py2app. All code files included in SourceCode folder.
 
